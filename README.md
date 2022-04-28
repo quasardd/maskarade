@@ -1,6 +1,6 @@
 # Project Title
 
-`maskarade` is just a small collection of a few functions that mask/unmask string based on a pattern. It's great when you need to simply mask strings from constant inputs.
+`maskarade` is just a small collection of a few functions that mask/unmask string based on a pattern.
 
 ### Installing
 
