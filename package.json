@@ -1,0 +1,25 @@
+{
+  "name": "maskarade",
+  "version": "0.1.0",
+  "description": "Mask and unmask string based on pattern",
+  "main": "index.js",
+  "author": "Marcel <marcel@quasar.systems>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "homepage": "https://github.com/quasardd/maskarade.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quasardd/maskarade.git"
+  },
+  "keywords": [
+    "mask",
+    "unmask",
+    "typescript"
+  ],
+  "dependencies": {
+    "bignumber.js": "^9.0.2"
+  }
+}
