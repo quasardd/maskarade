@@ -9,6 +9,10 @@ import toPattern from './toPattern';
  * @returns {string}
  */
 function unMask(value: string, type: 'custom' | 'currency' = 'custom') {
+  if (typeof value !== 'string') {
+    return value;
+  }
+
   if (type === 'currency') {
     if (!value) return '0';
 

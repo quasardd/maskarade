@@ -1,6 +1,6 @@
 {
   "name": "maskarade",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mask and unmask string based on pattern",
   "main": "dist/index.js",
   "author": "Marcel <marcel@quasar.systems>",
