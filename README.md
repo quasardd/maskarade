@@ -1,4 +1,4 @@
-# Project Title
+# Maskarade
 
 `maskarade` is just a small collection of a few functions that mask/unmask string based on a pattern.
 
